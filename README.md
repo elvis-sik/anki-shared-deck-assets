@@ -31,6 +31,17 @@ Census region and division card families.
 | Census region | [PNG](screenshots/us-states/census-region.png) |
 | Census division | [PNG](screenshots/us-states/census-division.png) |
 
+## Taiwan Divisions
+
+These screenshots were rendered from the shareable Taiwan Divisions APKG in a
+disposable Anki profile. They show the map-to-name and connections card
+families using Tainan City's selected locator map.
+
+| Card | Image |
+| --- | --- |
+| Map to name | [PNG](screenshots/taiwan-divisions/tainan-map-to-name.png) |
+| Connections | [PNG](screenshots/taiwan-divisions/tainan-connections.png) |
+
 ## Asset Policy
 
 Images here are for representing the linked shared decks. Rights and
