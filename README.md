@@ -19,6 +19,18 @@ Wikimedia-sourced historical maps and artwork.
 | Tang dynasty | [PNG](screenshots/chinese-dynasties/tang-dynasty-map.png) |
 | Yuan dynasty | [PNG](screenshots/chinese-dynasties/yuan-dynasty-map.png) |
 
+## U.S. States
+
+These screenshots were rendered from the repaired shareable U.S. States deck
+in the isolated Publisher profile. They show map recognition and the U.S.
+Census region and division card families.
+
+| Card | Image |
+| --- | --- |
+| Map recognition | [PNG](screenshots/us-states/map-recognition.png) |
+| Census region | [PNG](screenshots/us-states/census-region.png) |
+| Census division | [PNG](screenshots/us-states/census-division.png) |
+
 ## Asset Policy
 
 Images here are for representing the linked shared decks. Rights and
