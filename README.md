@@ -42,6 +42,17 @@ families using Tainan City's selected locator map.
 | Map to name | [PNG](screenshots/taiwan-divisions/tainan-map-to-name.png) |
 | Connections | [PNG](screenshots/taiwan-divisions/tainan-connections.png) |
 
+## Bible Books
+
+These screenshots were rendered by Anki from the public Bible Books APKG in a
+disposable `anki-addon-workbench` profile. They show the front and back of a
+reference-abbreviation drill for Matthew.
+
+| Card | Image |
+| --- | --- |
+| Reference drill front | [PNG](screenshots/bible-books/reference-drill-front.png) |
+| Reference drill back | [PNG](screenshots/bible-books/reference-drill-back.png) |
+
 ## Asset Policy
 
 Images here are for representing the linked shared decks. Rights and
