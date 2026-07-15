@@ -53,6 +53,28 @@ reference-abbreviation drill for Matthew.
 | Reference drill front | [PNG](screenshots/bible-books/reference-drill-front.png) |
 | Reference drill back | [PNG](screenshots/bible-books/reference-drill-back.png) |
 
+## Sight Singing
+
+These screenshots were rendered by Anki from the public Sight Singing shipping
+APKG in a disposable `anki-addon-workbench` profile. They show a C-major
+melody-reading prompt and its revealed answer.
+
+| Card | Image |
+| --- | --- |
+| Sing front | [PNG](screenshots/sight-singing/sing-front.png) |
+| Sing back | [PNG](screenshots/sight-singing/sing-back.png) |
+
+## Dictation
+
+These screenshots were rendered by Anki from the public Dictation shipping
+APKG in a disposable `anki-addon-workbench` profile. They show the notation
+editor before answering and the target melody after the answer is revealed.
+
+| Card | Image |
+| --- | --- |
+| Dictation front | [PNG](screenshots/dictation/dictation-front.png) |
+| Dictation back | [PNG](screenshots/dictation/dictation-back.png) |
+
 ## Asset Policy
 
 Images here are for representing the linked shared decks. Rights and
