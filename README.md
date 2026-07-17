@@ -10,6 +10,26 @@ This repository contains only rendered screenshots. It deliberately excludes
 APKG files, source data, build configuration, private collection details, and
 release credentials.
 
+## Traditional Chinese from Simplified Characters
+
+This card was rendered from the shareable Traditional Chinese from Simplified
+Characters APKG in a disposable `anki-addon-workbench` profile. It shows the
+deck's character-conversion prompt.
+
+| Card | Image |
+| --- | --- |
+| Traditional-character prompt | [PNG](screenshots/traditional-from-simplified/traditional-character.png) |
+
+## Japan Geography
+
+This card was rendered from the shareable Japan Geography APKG in a disposable
+`anki-addon-workbench` profile. It shows a highlighted-map prefecture recall
+prompt.
+
+| Card | Image |
+| --- | --- |
+| Hokkaido map recall | [PNG](screenshots/japan-geography/hokkaido-map-recall.png) |
+
 ## Chinese Dynasties
 
 These screenshots were rendered from the shareable Chinese Dynasties APKG in a
