@@ -1,7 +1,7 @@
 # Anki Shared Deck Assets
 
 [![Public AnkiWeb listing assets](https://img.shields.io/badge/AnkiWeb-listing%20assets-2f80ed)](https://ankiweb.net/)
-[![Rendered in disposable Anki](https://img.shields.io/badge/rendered%20in-disposable%20Anki-16A34A)](https://github.com/elvis-sik/anki-addon-workbench)
+[![Rendered in disposable Anki](https://img.shields.io/badge/rendered%20in-disposable%20Anki-16A34A)](https://github.com/ritornello-labs/anki-addon-workbench)
 
 Public presentation images used by AnkiWeb listings for decks whose source
 repositories are private or intentionally unpublished.
